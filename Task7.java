@@ -1,5 +1,4 @@
-public class Task7 {
-    
+
 import java.util.Scanner;
 
 public class Task7 {
@@ -41,6 +40,4 @@ public class Task7 {
 
         sc.close();
     }
-}
-
 }
